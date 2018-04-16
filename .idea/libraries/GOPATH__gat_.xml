@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gat&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../swaggerApi" />
+      <root url="file://$PROJECT_DIR$/../hellobikeApi" />
+      <root url="file://$PROJECT_DIR$/../beegoblog-master" />
+      <root url="file://$PROJECT_DIR$/../swag" />
+      <root url="file://$PROJECT_DIR$/../testPro" />
+      <root url="file://$PROJECT_DIR$/../gin-swagger" />
+      <root url="file://$PROJECT_DIR$/../go_tcp_client" />
+      <root url="file://$PROJECT_DIR$/../go-server-server" />
+      <root url="file://$PROJECT_DIR$/../cool" />
+      <root url="file://$PROJECT_DIR$/../go-client" />
+      <root url="file://$PROJECT_DIR$/../alex" />
+      <root url="file://$PROJECT_DIR$/../samples" />
+      <root url="file://$PROJECT_DIR$/../testingPlatform" />
+      <root url="file://$PROJECT_DIR$/../OPMS-master" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../kafka_producer" />
+      <root url="file://$PROJECT_DIR$/../gin-master" />
+      <root url="file://$PROJECT_DIR$/../gopub-master" />
+      <root url="file://$PROJECT_DIR$/../chess" />
+      <root url="file://$PROJECT_DIR$/../cooltest" />
+      <root url="file://$PROJECT_DIR$/../coolweb" />
+      <root url="file://$PROJECT_DIR$/../coolPt" />
+      <root url="file://$PROJECT_DIR$/../hellobike" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../coolapi" />
+      <root url="file://$PROJECT_DIR$/../example.v2-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../swaggerApi" />
+      <root url="file://$PROJECT_DIR$/../hellobikeApi" />
+      <root url="file://$PROJECT_DIR$/../beegoblog-master" />
+      <root url="file://$PROJECT_DIR$/../swag" />
+      <root url="file://$PROJECT_DIR$/../testPro" />
+      <root url="file://$PROJECT_DIR$/../gin-swagger" />
+      <root url="file://$PROJECT_DIR$/../go_tcp_client" />
+      <root url="file://$PROJECT_DIR$/../go-server-server" />
+      <root url="file://$PROJECT_DIR$/../cool" />
+      <root url="file://$PROJECT_DIR$/../go-client" />
+      <root url="file://$PROJECT_DIR$/../alex" />
+      <root url="file://$PROJECT_DIR$/../samples" />
+      <root url="file://$PROJECT_DIR$/../testingPlatform" />
+      <root url="file://$PROJECT_DIR$/../OPMS-master" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../kafka_producer" />
+      <root url="file://$PROJECT_DIR$/../gin-master" />
+      <root url="file://$PROJECT_DIR$/../gopub-master" />
+      <root url="file://$PROJECT_DIR$/../chess" />
+      <root url="file://$PROJECT_DIR$/../cooltest" />
+      <root url="file://$PROJECT_DIR$/../coolweb" />
+      <root url="file://$PROJECT_DIR$/../coolPt" />
+      <root url="file://$PROJECT_DIR$/../hellobike" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../coolapi" />
+      <root url="file://$PROJECT_DIR$/../example.v2-master" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
